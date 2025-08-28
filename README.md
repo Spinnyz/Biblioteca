@@ -1,22 +1,22 @@
-# Biblioteca em Python
+# Python Library System
 
-Um sistema simples de **gerenciamento de biblioteca** desenvolvido em Python, permitindo adicionar livros, listar os disponíveis, emprestar e devolver livros através de um menu interativo no terminal.
-
----
-
-## Funcionalidades
-
-- **Adicionar livros**: Permite incluir novos livros na biblioteca com título, autor e ano de publicação.
-- **Listar livros disponíveis**: Exibe todos os livros cadastrados na biblioteca.
-- **Emprestar livros**: Marca um livro como emprestado, tornando-o indisponível até a devolução.
-- **Devolver livros**: Marca um livro como disponível novamente.
-- **Interface interativa**: Menu no terminal para facilitar o uso do sistema.
+A simple **library management system** developed in Python, allowing you to add books, list available ones, lend, and return books through an interactive terminal menu.
 
 ---
 
-## Como usar
+## Features
 
-1. Clone o repositório:
+- **Add books**: Add new books to the library with title, author, and publication year.
+- **List available books**: Display all registered books in the library.
+- **Lend books**: Mark a book as lent, making it unavailable until returned.
+- **Return books**: Mark a book as available again.
+- **Interactive interface**: Terminal menu for easy use.
+
+---
+
+## How to use
+
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/biblioteca-python.git
+git clone https://github.com/your-username/python-library-system.git
