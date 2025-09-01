@@ -1,6 +1,6 @@
 # Python Library System
 
-A simple **library management system** developed in Python, allowing you to add books, list available ones, lend, and return books through an interactive terminal menu.
+A  **library management system** developed in Python, allowing you to add books, list available ones, lend, and return books through an interactive terminal menu.
 
 ---
 
